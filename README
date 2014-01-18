@@ -10,4 +10,5 @@ SLOW:
 
 VERY FAST:
 3. Constraint Propagation Backtracking (Updates possibilities for each cell as we go)
-This file was modified by IntelliJ IDEA 12.1.4 for binding GitHub repository
+
+The fastest approach is based on Peter Norvig's approach at: http://norvig.com/sudoku.html
