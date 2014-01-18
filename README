@@ -1,0 +1,13 @@
+Description:
+
+Solves Sudokus with 3 approaches:
+
+VERY SLOW:
+1. Simple Backtracking (1..9)
+
+SLOW:
+2. Reduced Domain Backtracking (Only values which satisfy initial grid constraints)
+
+VERY FAST:
+3. Constraint Propagation Backtracking (Updates possibilities for each cell as we go)
+This file was modified by IntelliJ IDEA 12.1.4 for binding GitHub repository
