@@ -1,5 +1,7 @@
 Description:
 
+My fastest algorithm is #13 Worldwide on SPOJ (http://www.spoj.com/ranks/SUD/lang=JAVA)
+
 Solves Sudokus with 3 approaches:
 
 VERY SLOW:
@@ -11,4 +13,4 @@ SLOW:
 VERY FAST:
 3. Constraint Propagation Backtracking (Updates possibilities for each cell as we go)
 
-The fastest approach is based on Peter Norvig's approach at: http://norvig.com/sudoku.html
+My interest in solving Sudoku algorithmically was inspired by Peter Norvig's Python essay at: http://norvig.com/sudoku.html
